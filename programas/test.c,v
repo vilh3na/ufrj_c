@@ -1,0 +1,31 @@
+head	1.1;
+access;
+symbols;
+locks
+	eduardo:1.1; strict;
+comment	@ * @;
+
+
+1.1
+date	2023.08.21.18.50.29;	author eduardo;	state Exp;
+branches;
+next	;
+
+
+desc
+@Message of writing it
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#include <stdio.h>
+
+int main(void) {
+    printf("\n\nEEL270 - Computacao II - Turma 2023/2\n\n");
+    return 0;
+}
+@
